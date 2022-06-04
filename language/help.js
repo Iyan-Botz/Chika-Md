@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Rian-Own
+› Base Ori @Rian-Own
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -456,20 +456,18 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
+  *≻* Sewa Bot 10k (1 minggu)
   *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+  *≻* Sewa Bot 50k (Permanen)
 
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
+  *JADI PARTNER GW* 
+  *≻* Jadi Partner Gw
+  *≻* jadi partner Gw
+  *≻* Jadi Partner Gw
 
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
-
+  *lopyu*
+  *≻* HAHAHA
+  *≻* HAHAHA
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
@@ -953,6 +951,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
+  *>* Rian-Own
   *≻* DikaArdnt
   *≻* ZeeoneOfc
   *≻* FatihArridho
